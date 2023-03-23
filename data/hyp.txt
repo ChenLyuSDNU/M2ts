@@ -1,0 +1,8 @@
+show the console view .
+create an instance of the values of t hash iterator over the to bject hash EOS
+adds a feature to the gui attribute of the given class .
+adds a new instance .
+constructs a new exception with the given a plugin tool and the given class .
+creates an error message .
+adds a feature to the gui attribute of the given class .
+creates a new isolated vertex .
